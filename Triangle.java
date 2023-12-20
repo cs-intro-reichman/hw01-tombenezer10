@@ -15,6 +15,6 @@ public class Triangle {
 			isTriangle = true;
 		}
 
-		System.out.println(a + "," + b + "," + c + ": " + isTriangle);
+		System.out.println(a + ", " + b + ", " + c + ": " + isTriangle);
 	}
 }
